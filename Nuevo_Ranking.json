@@ -1,0 +1,787 @@
+[
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "1",
+            "\u00a0Alemania"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "1",
+                    "Cristiano Ronaldo",
+                    "32",
+                    "115",
+                    "184"
+                ],
+                "ranking_anterior": 1,
+                "ranking_actual": 1
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "11",
+            "\u00a0Costa de Marfil"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "11",
+                    "S\u00e1ndor Kocsis",
+                    "19",
+                    "75",
+                    "68"
+                ],
+                "ranking_anterior": 11,
+                "ranking_actual": 2
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": NaN,
+        "jugadores": []
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "36",
+            "\u00a0Tailandia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "36",
+                    "Imre Schlosser",
+                    "19",
+                    "59",
+                    "68"
+                ],
+                "ranking_anterior": 36,
+                "ranking_actual": 5
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "31",
+            "\u00a0Polonia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "31",
+                    "Ronaldo Nazario",
+                    "8",
+                    "62",
+                    "98"
+                ],
+                "ranking_anterior": 31,
+                "ranking_actual": 6
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "21",
+            "\u00a0India"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "21",
+                    "Stern John",
+                    "37",
+                    "70",
+                    "115"
+                ],
+                "ranking_anterior": 21,
+                "ranking_actual": 7
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "16",
+            "\u00a0Federaci\u00f3n Malaya/\u00a0Malasia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "16",
+                    "Kinnah Phiri",
+                    "29",
+                    "71",
+                    "117"
+                ],
+                "ranking_anterior": 16,
+                "ranking_actual": 8
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "26",
+            "\u00a0Jap\u00f3n"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "26",
+                    "Robbie Keane",
+                    "25",
+                    "68",
+                    "146"
+                ],
+                "ranking_anterior": 26,
+                "ranking_actual": 9
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "6",
+            "\u00a0B\u00e9lgica"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "6",
+                    "Sunil Chhetri",
+                    "21",
+                    "80",
+                    "125"
+                ],
+                "ranking_anterior": 6,
+                "ranking_actual": 10
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "2",
+            "\u00a0Alemania Federal"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "2",
+                    "Ali Daei",
+                    "24",
+                    "109",
+                    "148"
+                ],
+                "ranking_anterior": 2,
+                "ranking_actual": 11
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "7",
+            "\u00a0Bosnia y Herzegovina"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "7",
+                    "Ali Mabkhout",
+                    "13",
+                    "79",
+                    "104"
+                ],
+                "ranking_anterior": 7,
+                "ranking_actual": 12
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "37",
+            "\u00a0Trinidad y Tobago"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "37",
+                    "David Villa",
+                    "14",
+                    "59",
+                    "98"
+                ],
+                "ranking_anterior": 37,
+                "ranking_actual": 13
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "32",
+            "\u00a0Portugal"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "32",
+                    "Zlatan Ibrahimovi\u0107",
+                    "35",
+                    "62",
+                    "120"
+                ],
+                "ranking_anterior": 32,
+                "ranking_actual": 14
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "27",
+            "\u00a0Kuwait"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "27",
+                    "Hossam Hassan",
+                    "12",
+                    "68",
+                    "176"
+                ],
+                "ranking_anterior": 27,
+                "ranking_actual": 15
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "22",
+            "\u00a0Indonesia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "22",
+                    "Neymar",
+                    "8",
+                    "70",
+                    "116"
+                ],
+                "ranking_anterior": 22,
+                "ranking_actual": 17
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "17",
+            "\u00a0Guatemala"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "17",
+                    "Kiatisuk Senamuang",
+                    "36",
+                    "71",
+                    "134"
+                ],
+                "ranking_anterior": 17,
+                "ranking_actual": 19
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "12",
+            "\u00a0Egipto"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "12",
+                    "Kunishige Kamamoto",
+                    "26",
+                    "75",
+                    "76"
+                ],
+                "ranking_anterior": 12,
+                "ranking_actual": 20
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "19",
+            "\u00a0Hungr\u00eda"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "19",
+                    "Piyapong Pue-on",
+                    "36",
+                    "70",
+                    "100"
+                ],
+                "ranking_anterior": 19,
+                "ranking_actual": 21
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "29",
+            "\u00a0Malawi"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "29",
+                    "Didier Drogba",
+                    "11",
+                    "65",
+                    "105"
+                ],
+                "ranking_anterior": 29,
+                "ranking_actual": 22
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "4",
+            "\u00a0Arabia Saudita"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "4",
+                    "Ferenc Pusk\u00e1s",
+                    "20",
+                    "84",
+                    "89"
+                ],
+                "ranking_anterior": 4,
+                "ranking_actual": 23
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "39",
+            "\u00a0Zambia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "39",
+                    "Ali Ashfaq",
+                    "30",
+                    "57",
+                    "89"
+                ],
+                "ranking_anterior": 39,
+                "ranking_actual": 25
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "34",
+            "\u00a0Singapur"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "34",
+                    "Abdul Ghani Minhat",
+                    "16",
+                    "61",
+                    "71"
+                ],
+                "ranking_anterior": 34,
+                "ranking_actual": 26
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "9",
+            "\u00a0Camer\u00fan"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "9",
+                    "Hussein Saeed",
+                    "23",
+                    "78",
+                    "137"
+                ],
+                "ranking_anterior": 9,
+                "ranking_actual": 27
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "14",
+            "\u00a0Espa\u00f1a"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "14",
+                    "Robert Lewandowski",
+                    "31",
+                    "74",
+                    "128"
+                ],
+                "ranking_anterior": 14,
+                "ranking_actual": 28
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "24",
+            "\u00a0Ir\u00e1n"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "24",
+                    "Romelu Lukaku",
+                    "6",
+                    "68",
+                    "101"
+                ],
+                "ranking_anterior": 24,
+                "ranking_actual": 30
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "28",
+            "\u00a0Malasia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "28",
+                    "Luis Su\u00e1rez",
+                    "38",
+                    "67",
+                    "130"
+                ],
+                "ranking_anterior": 28,
+                "ranking_actual": 31
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "13",
+            "\u00a0Emiratos Arabes Unidos"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "13",
+                    "Bashar Abdullah",
+                    "27",
+                    "75",
+                    "134"
+                ],
+                "ranking_anterior": 13,
+                "ranking_actual": 33
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "33",
+            "\u00a0Rep\u00fablica Checa"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "33",
+                    "Ahmed Radhi",
+                    "23",
+                    "62",
+                    "121"
+                ],
+                "ranking_anterior": 33,
+                "ranking_actual": 34
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "3",
+            "\u00a0Alemania Oriental"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "3",
+                    "Mokhtar Dahari",
+                    "28",
+                    "89",
+                    "142"
+                ],
+                "ranking_anterior": 3,
+                "ranking_actual": 36
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "8",
+            "\u00a0Brasil"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "8",
+                    "Godfrey Chitalu",
+                    "39",
+                    "79",
+                    "111"
+                ],
+                "ranking_anterior": 8,
+                "ranking_actual": 37
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "38",
+            "\u00a0Uruguay"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "38",
+                    "Cha Bum-Kun",
+                    "10",
+                    "58",
+                    "135"
+                ],
+                "ranking_anterior": 38,
+                "ranking_actual": 38
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "23",
+            "\u00a0Irak"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "23",
+                    "Gerd M\u00fcller",
+                    "2",
+                    "68",
+                    "62"
+                ],
+                "ranking_anterior": 23,
+                "ranking_actual": 39
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "18",
+            "\u00a0Honduras"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "18",
+                    "Miroslav Klose",
+                    "1",
+                    "71",
+                    "137"
+                ],
+                "ranking_anterior": 18,
+                "ranking_actual": 40
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "10",
+            "\u00a0Corea del Sur"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "10",
+                    "Pel\u00e9",
+                    "8",
+                    "77",
+                    "92"
+                ],
+                "ranking_anterior": 10,
+                "ranking_actual": 42
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "30",
+            "\u00a0Maldivas"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "30",
+                    "Jasem Al-Huwaidi",
+                    "27",
+                    "63",
+                    "83"
+                ],
+                "ranking_anterior": 30,
+                "ranking_actual": 43
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "5",
+            "\u00a0Argentina"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "5",
+                    "Lionel Messi",
+                    "5",
+                    "81",
+                    "158"
+                ],
+                "ranking_anterior": 5,
+                "ranking_actual": 45
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "35",
+            "\u00a0Suecia"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "35",
+                    "Edin D\u017eeko",
+                    "7",
+                    "60",
+                    "118"
+                ],
+                "ranking_anterior": 35,
+                "ranking_actual": 46
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "25",
+            "\u00a0Irlanda"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "25",
+                    "Carlos Ruiz Guti\u00e9rrez",
+                    "17",
+                    "68",
+                    "133"
+                ],
+                "ranking_anterior": 25,
+                "ranking_actual": 47
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "20",
+            "\u00a0Hungr\u00eda/\u00a0Espa\u00f1a"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "20",
+                    "Abdul Kadir",
+                    "22",
+                    "70",
+                    "111"
+                ],
+                "ranking_anterior": 20,
+                "ranking_actual": 48
+            }
+        ]
+    },
+    {
+        "codigo_pais": "01",
+        "nombre_pais": [
+            "15",
+            "\u00a0Estados Unidos"
+        ],
+        "jugadores": [
+            {
+                "nombre_jugador": [
+                    "15",
+                    "Majed Abdullah",
+                    "4",
+                    "72",
+                    "117"
+                ],
+                "ranking_anterior": 15,
+                "ranking_actual": 49
+            }
+        ]
+    }
+]
